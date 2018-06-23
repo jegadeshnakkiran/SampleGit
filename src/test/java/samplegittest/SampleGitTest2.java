@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
-public class SampleGitTest {
+public class SampleGitTest2 {
 	
 	@Test
 	public void logintest() throws IOException{
